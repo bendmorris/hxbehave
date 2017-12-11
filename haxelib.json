@@ -1,0 +1,10 @@
+{
+	"name": "hxbehave",
+	"url" : "https://github.com/bendmorris/hxbehave",
+	"license": "MIT",
+	"tags": [],
+	"description": "Resumable behavior tree implementation.",
+	"version": "0.1.0",
+	"releasenote": "Initial release.",
+	"contributors": ["bendmorris"]
+}
